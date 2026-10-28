@@ -37,33 +37,6 @@
 
 ---
 
-## 📦 نصب و اجرا
-
-### پیش‌نیاز
-- Python 3.8 یا بالاتر
-
-### مراحل
-
-```bash
-# کلون کردن مخزن
-git clone https://github.com/YOUR_USERNAME/jumbo-exam.git
-cd jumbo-exam
-
-# نصب وابستگی
-pip install flask
-
-# اجرا
-python exam_maker.py
-```
-
-سپس مرورگر را باز کنید و به آدرس زیر بروید:
-
-```
-http://127.0.0.1:5000
-```
-
----
-
 ## 📄 فرمت فایل `.q`
 
 ```text
